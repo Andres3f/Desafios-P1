@@ -1,0 +1,7 @@
+C:\Users\HP\OneDrive\Escritorio\Desafios progra 1\Desafio2\bin\Debug\Desafio2.exe.config
+C:\Users\HP\OneDrive\Escritorio\Desafios progra 1\Desafio2\bin\Debug\Desafio2.exe
+C:\Users\HP\OneDrive\Escritorio\Desafios progra 1\Desafio2\bin\Debug\Desafio2.pdb
+C:\Users\HP\OneDrive\Escritorio\Desafios progra 1\Desafio2\obj\Debug\Desafio2.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Escritorio\Desafios progra 1\Desafio2\obj\Debug\Desafio2.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Escritorio\Desafios progra 1\Desafio2\obj\Debug\Desafio2.exe
+C:\Users\HP\OneDrive\Escritorio\Desafios progra 1\Desafio2\obj\Debug\Desafio2.pdb
